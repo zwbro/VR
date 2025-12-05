@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "5-",
-      "name": "運動中心門口",
+      "id": "0-1",
+      "name": "1樓",
       "levels": [
         {
           "tileSize": 256,
@@ -34,12 +34,6 @@ var APP_DATA = {
           "pitch": 0.1708876496086411,
           "rotation": 5.497787143782138,
           "target": "4-"
-		  "linkHotspots": [
-        {
-          "yaw": -0.6979048223523456,
-          "pitch": 0.1708876496086411,
-          "rotation": 5.497787143782138,
-          "target": "5-"
         },
         {
           "yaw": 3.13529021256626,
